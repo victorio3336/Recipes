@@ -1,0 +1,70 @@
+.App {
+  min-height: 100vh;
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.home-nav {
+  background-color: rgba(201, 4, 4, 0.831);
+  margin-bottom: 2rem;
+  min-height: 3rem;
+}
+.nav-link {
+  color: #fff !important;
+}
+
+strong {
+  color: #fff;
+}
+
+img {
+  padding-top: 2rem;
+  width: 60%;
+}
+.recipeContent {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 3.5rem;
+}
+
+.text {
+  color: #fff;
+  text-align: center;
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem;
+}
+.search-bar {
+  width: 50%;
+  border: none;
+  padding-left: 0.5rem;
+}
+
+.wrapper-1 {
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-social-icon {
+  color: #fff !important;
+}
+
+.site-footer {
+  background-color: rgba(201, 4, 4, 0.831);
+  padding: 3rem;
+  margin-top: 3rem;
+}
+
+.logo-footer {
+  color: #fff;
+}
